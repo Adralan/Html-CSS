@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+/* EM HTML É ID = EM CSS É *
+    EM HTML É CLASS = EM CSS É . */
+
+body {
+    background-color: rgb(187, 247, 227);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+h1#principal {
+    background-color: azure;
+    color: rgb(1, 153, 82);
+    text-align: center;
+}
+
+.basico {
+        color: rgb(250, 119, 255);
+}
+
+.intermediario {
+        color: rgb(42, 161, 165);
+}
+
+.avancado {
+        color: rgb(252, 255, 80);
+}
+
+.destaque {
+        background-color: rgb(17, 0, 255) ;
+}
+
+h2 {
+    color: rgb(0, 170, 113);
+}
+
